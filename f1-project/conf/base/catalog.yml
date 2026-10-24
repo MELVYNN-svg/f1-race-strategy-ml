@@ -1,0 +1,8 @@
+
+fastf1_schedule:
+  type: pandas.ParquetDataset
+  filepath: "data/01_raw/fastf1/${globals:year}/schedule.parquet"
+
+fastf1_ingestion_report:
+  type: pandas.ParquetDataset
+  filepath: "data/08_reporting/${globals:year}/fastf1_ingestion_report.parquet"
