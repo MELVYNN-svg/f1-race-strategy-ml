@@ -3,4 +3,4 @@
 #
 # Documentation for this file format can be found in "Parameters"
 # Link: https://docs.kedro.org/en/1.7.0/configuration/parameters.html
-year: "${globals:year}"
+year: "${runtime_params:year,${globals:year}}"

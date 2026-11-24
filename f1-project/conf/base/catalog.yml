@@ -1,8 +1,142 @@
 
+fastf1_coverage:
+  type: pandas.ParquetDataset
+  filepath: "data/08_reporting/${runtime_params:year,${globals:year}}/fastf1_coverage.parquet"
+
+fastf1_quality:
+  type: pandas.ParquetDataset
+  filepath: "data/08_reporting/${runtime_params:year,${globals:year}}/fastf1_quality.parquet"
+
+fastf1_session_info:
+  type: pandas.ParquetDataset
+  filepath: "data/03_primary/fastf1/${runtime_params:year,${globals:year}}/session_info.parquet"
+
+fastf1_session_metadata:
+  type: pandas.ParquetDataset
+  filepath: "data/03_primary/fastf1/${runtime_params:year,${globals:year}}/session_metadata.parquet"
+
+fastf1_drivers:
+  type: pandas.ParquetDataset
+  filepath: "data/03_primary/fastf1/${runtime_params:year,${globals:year}}/drivers.parquet"
+
+fastf1_pit_stops:
+  type: pandas.ParquetDataset
+  filepath: "data/03_primary/fastf1/${runtime_params:year,${globals:year}}/pit_stops.parquet"
+
+fastf1_driver_coverage:
+  type: pandas.ParquetDataset
+  filepath: "data/08_reporting/${runtime_params:year,${globals:year}}/fastf1_driver_coverage.parquet"
+
+fastf1_event_coverage:
+  type: pandas.ParquetDataset
+  filepath: "data/08_reporting/${runtime_params:year,${globals:year}}/fastf1_event_coverage.parquet"
+
+fastf1_session_coverage:
+  type: pandas.ParquetDataset
+  filepath: "data/08_reporting/${runtime_params:year,${globals:year}}/fastf1_session_coverage.parquet"
+
+fastf1_schemas:
+  type: pandas.ParquetDataset
+  filepath: "data/08_reporting/${runtime_params:year,${globals:year}}/fastf1_schemas.parquet"
+
 fastf1_schedule:
   type: pandas.ParquetDataset
-  filepath: "data/01_raw/fastf1/${globals:year}/schedule.parquet"
+  filepath: "data/01_raw/fastf1/${runtime_params:year,${globals:year}}/schedule.parquet"
 
 fastf1_ingestion_report:
   type: pandas.ParquetDataset
-  filepath: "data/08_reporting/${globals:year}/fastf1_ingestion_report.parquet"
+  filepath: "data/08_reporting/${runtime_params:year,${globals:year}}/fastf1_ingestion_report.parquet"
+
+# Les fichiers bruts restent par evenement/session/pilote. Le chargement est
+# paresseux : catalog.load("fastf1_raw") ne lit pas toute la telemetrie.
+fastf1_raw:
+  type: partitions.PartitionedDataset
+  path: "data/01_raw/fastf1/${runtime_params:year,${globals:year}}"
+  dataset: pandas.ParquetDataset
+  filename_suffix: .parquet
+
+# Tables de saison generees hors ligne par `kedro run`.
+fastf1_events:
+  type: pandas.ParquetDataset
+  filepath: "data/03_primary/fastf1/${runtime_params:year,${globals:year}}/events.parquet"
+
+fastf1_laps:
+  type: pandas.ParquetDataset
+  filepath: "data/03_primary/fastf1/${runtime_params:year,${globals:year}}/laps.parquet"
+
+fastf1_results:
+  type: pandas.ParquetDataset
+  filepath: "data/03_primary/fastf1/${runtime_params:year,${globals:year}}/results.parquet"
+
+fastf1_weather:
+  type: pandas.ParquetDataset
+  filepath: "data/03_primary/fastf1/${runtime_params:year,${globals:year}}/weather.parquet"
+
+fastf1_stints:
+  type: pandas.ParquetDataset
+  filepath: "data/03_primary/fastf1/${runtime_params:year,${globals:year}}/stints.parquet"
+
+fastf1_pit_events:
+  type: pandas.ParquetDataset
+  filepath: "data/03_primary/fastf1/${runtime_params:year,${globals:year}}/pit_events.parquet"
+
+fastf1_track_status:
+  type: pandas.ParquetDataset
+  filepath: "data/03_primary/fastf1/${runtime_params:year,${globals:year}}/track_status.parquet"
+
+fastf1_session_status:
+  type: pandas.ParquetDataset
+  filepath: "data/03_primary/fastf1/${runtime_params:year,${globals:year}}/session_status.parquet"
+
+fastf1_race_control:
+  type: pandas.ParquetDataset
+  filepath: "data/03_primary/fastf1/${runtime_params:year,${globals:year}}/race_control.parquet"
+
+fastf1_circuit_corners:
+  type: pandas.ParquetDataset
+  filepath: "data/03_primary/fastf1/${runtime_params:year,${globals:year}}/circuit_corners.parquet"
+
+fastf1_circuit_marshal_lights:
+  type: pandas.ParquetDataset
+  filepath: "data/03_primary/fastf1/${runtime_params:year,${globals:year}}/circuit_marshal_lights.parquet"
+
+fastf1_circuit_marshal_sectors:
+  type: pandas.ParquetDataset
+  filepath: "data/03_primary/fastf1/${runtime_params:year,${globals:year}}/circuit_marshal_sectors.parquet"
+
+fastf1_circuit_rotation:
+  type: pandas.ParquetDataset
+  filepath: "data/03_primary/fastf1/${runtime_params:year,${globals:year}}/circuit_rotation.parquet"
+
+fastf1_inventory:
+  type: pandas.ParquetDataset
+  filepath: "data/08_reporting/${runtime_params:year,${globals:year}}/fastf1_inventory.parquet"
+
+fastf1_sessions:
+  type: pandas.ParquetDataset
+  filepath: "data/08_reporting/${runtime_params:year,${globals:year}}/fastf1_sessions.parquet"
+
+# Acces direct sans preparation, exemples :
+# fastf1_table__round_01__05_race__laps
+# fastf1_driver__round_01__05_race__car_data__1
+# session = le nom exact du dossier (03_sprint, 04_qualifying, 05_race...).
+"fastf1_table__{event}__{session}__{table}":
+  type: pandas.ParquetDataset
+  filepath: "data/01_raw/fastf1/${runtime_params:year,${globals:year}}/{event}/{session}/{table}.parquet"
+
+"fastf1_driver__{event}__{session}__{table}__{driver}":
+  type: pandas.ParquetDataset
+  filepath: "data/01_raw/fastf1/${runtime_params:year,${globals:year}}/{event}/{session}/{table}/{driver}.parquet"
+
+# OpenF1 est une source distincte : ne pas melanger ses schemas avec FastF1.
+openf1_meetings:
+  type: pandas.ParquetDataset
+  filepath: "data/01_raw/openf1/${runtime_params:year,${globals:year}}/meetings.parquet"
+
+openf1_sessions:
+  type: pandas.ParquetDataset
+  filepath: "data/01_raw/openf1/${runtime_params:year,${globals:year}}/sessions.parquet"
+
+"openf1_table__{session_key}__{table}":
+  type: pandas.ParquetDataset
+  filepath: "data/01_raw/openf1/${runtime_params:year,${globals:year}}/{session_key}/{table}.parquet"

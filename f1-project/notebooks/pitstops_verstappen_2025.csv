@@ -1,0 +1,44 @@
+Manche,Grand Prix,lap_number,stop_duration,lane_duration
+1,Australia - Melbourne,2,,13.4
+1,Australia - Melbourne,3,,13.7
+1,Australia - Melbourne,4,,12.9
+1,Australia - Melbourne,34,2.7,18.7
+1,Australia - Melbourne,46,2.5,18.721
+2,China - Shanghai,13,2.2,22.454
+3,Japan - Suzuka,21,3.3,24.397
+4,Bahrain - Sakhir,10,4.7,26.518
+4,Bahrain - Sakhir,26,6.2,28.067
+5,Saudi Arabia - Jeddah,21,8.3,26.03
+6,United States - Miami,26,2.7,22.501
+7,Italy - Imola,29,2.3,29.991
+7,Italy - Imola,46,2.1,29.657
+8,Monaco - Monte Carlo,28,2.3,24.114
+8,Monaco - Monte Carlo,77,2.2,23.95
+9,Spain - Catalunya,13,2.5,21.869
+9,Spain - Catalunya,29,2.3,21.933
+9,Spain - Catalunya,47,2.4,21.802
+9,Spain - Catalunya,55,2.4,22.197
+10,Canada - Montreal,12,2.6,23.604
+10,Canada - Montreal,37,2.2,23.121
+10,Canada - Montreal,67,,18.2
+10,Canada - Montreal,68,,19.2
+10,Canada - Montreal,69,,18.3
+12,United Kingdom - Silverstone,11,2.2,28.182
+12,United Kingdom - Silverstone,41,,29.6
+13,Belgium - Spa-Francorchamps,12,4.8,25.913
+14,Hungary - Hungaroring,17,2.3,21.433
+14,Hungary - Hungaroring,48,2.2,21.258
+15,Netherlands - Zandvoort,23,3.4,18.74
+15,Netherlands - Zandvoort,53,3.3,18.261
+16,Italy - Monza,37,2.3,24.545
+17,Azerbaijan - Baku,40,2.4,20.221
+18,Singapore - Singapore,19,3.0,24.008
+19,United States - Austin,33,2.6,23.987
+20,Mexico - Mexico City,37,2.9,22.762
+21,Brazil - Interlagos,7,2.2,23.197
+21,Brazil - Interlagos,34,2.3,23.058
+21,Brazil - Interlagos,54,2.5,23.311
+22,United States - Las Vegas,25,3.0,21.708
+23,Qatar - Lusail,7,4.1,29.97
+23,Qatar - Lusail,32,2.5,28.168
+24,United Arab Emirates - Yas Marina Circuit,23,2.3,21.703

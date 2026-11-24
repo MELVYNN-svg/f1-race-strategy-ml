@@ -1,0 +1,44 @@
+[
+  {
+    "file": "01_Heilmeier_2020_Virtual_Strategy_Engineer.pdf",
+    "url": "https://mdpi-res.com/d_attachment/applsci/applsci-10-07805/article_deploy/applsci-10-07805-with-cover.pdf?version=1689159926",
+    "pages": 33,
+    "bytes": 504865,
+    "sha256": "7565299457411d08ef508ba23bb2c8a8898e23640449ded5740e154315247733"
+  },
+  {
+    "file": "02_Heilmeier_2020_Simulation_Monte_Carlo.pdf",
+    "url": "https://res.mdpi.com/d_attachment/applsci/applsci-10-04229/article_deploy/applsci-10-04229.pdf",
+    "pages": 21,
+    "bytes": 394312,
+    "sha256": "555f60b9f9b61559262cfb3568539273823e849bc4d30329385add8894823bdf"
+  },
+  {
+    "file": "03_Piccinotti_2021_Planification_Strategie_F1.pdf",
+    "url": "https://prl-theworkshop.github.io/prl2021/papers/PRL2021_paper_1.pdf",
+    "pages": 11,
+    "bytes": 514989,
+    "sha256": "480f5cb8e2e151a1c39230e8d6ac969adeb3eb4c832f625e1df58aaed9f0bb0b"
+  },
+  {
+    "file": "04_Thomas_2026_RSRL_Strategie_Explicable.pdf",
+    "url": "https://link.springer.com/content/pdf/10.1007/s10994-026-07081-3.pdf",
+    "pages": 31,
+    "bytes": 4560787,
+    "sha256": "54294223ada9cff7f07290dcf783ae63e9afc7111fcf48719604ae2bc94da889"
+  },
+  {
+    "file": "05_Avella_2026_Optimisation_Simulation.pdf",
+    "url": "https://optimization-online.org/wp-content/uploads/2026/02/Pit_Stop_Strategy_Optimization_Model.pdf",
+    "pages": 36,
+    "bytes": 526937,
+    "sha256": "f199e87169644c027497e072d35860a66a1a0d74c83a1d0a62eebd4feeade284"
+  },
+  {
+    "file": "06_Thomas_2025_RL_Explicable_Version_Courte.pdf",
+    "url": "https://arxiv.org/pdf/2501.04068",
+    "pages": 9,
+    "bytes": 1338322,
+    "sha256": "9483a859e59c9346f21408da77f43a6d25ff6dbd194e8371e484113f5603823c"
+  }
+]

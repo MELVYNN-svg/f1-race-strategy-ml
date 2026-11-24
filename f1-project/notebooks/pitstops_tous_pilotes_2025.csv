@@ -1,0 +1,822 @@
+Manche,Grand Prix,driver_number,lap_number,stop_duration,lane_duration
+1,Australia - Melbourne,1,2,,13.4
+1,Australia - Melbourne,1,3,,13.7
+1,Australia - Melbourne,1,4,,12.9
+1,Australia - Melbourne,1,34,2.7,18.7
+1,Australia - Melbourne,1,46,2.5,18.721
+1,Australia - Melbourne,4,2,,13.3
+1,Australia - Melbourne,4,3,,12.9
+1,Australia - Melbourne,4,4,,12.8
+1,Australia - Melbourne,4,34,2.7,18.464
+1,Australia - Melbourne,4,44,3.1,18.031
+1,Australia - Melbourne,5,2,,14.4
+1,Australia - Melbourne,5,3,,16.3
+1,Australia - Melbourne,5,4,,14.2
+1,Australia - Melbourne,5,33,5.6,24.073
+1,Australia - Melbourne,5,44,9.3,26.214
+1,Australia - Melbourne,10,2,,15.1
+1,Australia - Melbourne,10,3,,15.7
+1,Australia - Melbourne,10,4,,14.7
+1,Australia - Melbourne,10,33,3.6,19.589
+1,Australia - Melbourne,10,46,3.3,19.482
+1,Australia - Melbourne,12,2,,14.6
+1,Australia - Melbourne,12,3,,16.3
+1,Australia - Melbourne,12,4,,13.9
+1,Australia - Melbourne,12,33,2.7,18.912
+1,Australia - Melbourne,12,44,3.0,21.946
+1,Australia - Melbourne,14,2,,15.5
+1,Australia - Melbourne,14,3,,16.2
+1,Australia - Melbourne,14,4,,15.0
+1,Australia - Melbourne,16,2,,14.1
+1,Australia - Melbourne,16,3,,14.6
+1,Australia - Melbourne,16,4,,14.1
+1,Australia - Melbourne,16,34,2.3,18.154
+1,Australia - Melbourne,16,47,3.2,24.528
+1,Australia - Melbourne,18,2,,15.5
+1,Australia - Melbourne,18,3,,16.0
+1,Australia - Melbourne,18,4,,14.4
+1,Australia - Melbourne,18,33,2.8,18.802
+1,Australia - Melbourne,18,44,2.8,18.901
+1,Australia - Melbourne,22,2,,14.9
+1,Australia - Melbourne,22,3,,15.2
+1,Australia - Melbourne,22,4,,13.6
+1,Australia - Melbourne,22,33,2.6,18.997
+1,Australia - Melbourne,22,47,2.4,19.312
+1,Australia - Melbourne,23,2,,15.0
+1,Australia - Melbourne,23,3,,16.9
+1,Australia - Melbourne,23,4,,14.2
+1,Australia - Melbourne,23,33,2.7,18.573
+1,Australia - Melbourne,23,44,3.5,18.952
+1,Australia - Melbourne,27,2,,15.1
+1,Australia - Melbourne,27,3,,15.9
+1,Australia - Melbourne,27,4,,14.1
+1,Australia - Melbourne,27,33,5.1,21.123
+1,Australia - Melbourne,27,44,4.0,20.209
+1,Australia - Melbourne,30,2,,14.7
+1,Australia - Melbourne,30,3,,16.3
+1,Australia - Melbourne,30,4,2.5,18.88
+1,Australia - Melbourne,30,33,2.9,20.067
+1,Australia - Melbourne,31,2,,14.3
+1,Australia - Melbourne,31,3,,16.4
+1,Australia - Melbourne,31,4,2.5,19.649
+1,Australia - Melbourne,31,39,2.8,18.778
+1,Australia - Melbourne,31,46,2.6,19.858
+1,Australia - Melbourne,44,2,,15.0
+1,Australia - Melbourne,44,3,,16.1
+1,Australia - Melbourne,44,4,,14.7
+1,Australia - Melbourne,44,33,2.4,18.526
+1,Australia - Melbourne,44,47,2.4,20.802
+1,Australia - Melbourne,63,2,,13.6
+1,Australia - Melbourne,63,3,,14.1
+1,Australia - Melbourne,63,4,,13.6
+1,Australia - Melbourne,63,34,2.6,19.125
+1,Australia - Melbourne,63,44,2.7,19.378
+1,Australia - Melbourne,81,2,,13.0
+1,Australia - Melbourne,81,3,,13.8
+1,Australia - Melbourne,81,4,,12.8
+1,Australia - Melbourne,81,34,3.8,19.719
+1,Australia - Melbourne,81,44,4.1,19.85
+1,Australia - Melbourne,87,2,,14.6
+1,Australia - Melbourne,87,3,,16.3
+1,Australia - Melbourne,87,4,2.4,22.494
+1,Australia - Melbourne,87,39,4.9,22.441
+1,Australia - Melbourne,87,44,2.8,19.37
+2,China - Shanghai,1,13,2.2,22.454
+2,China - Shanghai,4,15,2.2,22.213
+2,China - Shanghai,5,1,3.3,23.385
+2,China - Shanghai,5,26,2.6,22.79
+2,China - Shanghai,6,12,3.0,22.896
+2,China - Shanghai,6,33,2.5,22.234
+2,China - Shanghai,7,11,2.7,22.793
+2,China - Shanghai,10,10,3.1,23.138
+2,China - Shanghai,12,12,2.7,22.675
+2,China - Shanghai,16,15,,22.1
+2,China - Shanghai,18,36,3.2,22.995
+2,China - Shanghai,22,11,2.1,22.519
+2,China - Shanghai,22,35,2.3,22.583
+2,China - Shanghai,22,46,17.6,38.102
+2,China - Shanghai,23,20,3.3,23.362
+2,China - Shanghai,27,20,2.7,22.959
+2,China - Shanghai,30,18,2.5,22.536
+2,China - Shanghai,30,30,2.5,22.355
+2,China - Shanghai,31,11,2.8,23.114
+2,China - Shanghai,44,13,2.4,22.388
+2,China - Shanghai,44,37,2.3,22.364
+2,China - Shanghai,55,17,2.7,22.721
+2,China - Shanghai,63,14,2.4,22.324
+2,China - Shanghai,81,14,3.8,23.938
+2,China - Shanghai,87,26,2.9,22.808
+3,Japan - Suzuka,1,21,3.3,24.397
+3,Japan - Suzuka,4,21,2.3,23.222
+3,Japan - Suzuka,5,31,2.6,23.419
+3,Japan - Suzuka,6,25,2.4,23.333
+3,Japan - Suzuka,7,15,2.5,23.382
+3,Japan - Suzuka,10,24,4.8,26.041
+3,Japan - Suzuka,12,31,3.1,24.38
+3,Japan - Suzuka,14,24,4.7,25.708
+3,Japan - Suzuka,16,21,2.4,23.346
+3,Japan - Suzuka,18,9,2.6,23.724
+3,Japan - Suzuka,18,30,2.7,23.608
+3,Japan - Suzuka,22,23,2.9,24.181
+3,Japan - Suzuka,23,24,2.6,23.093
+3,Japan - Suzuka,27,22,2.6,23.515
+3,Japan - Suzuka,30,33,2.9,23.662
+3,Japan - Suzuka,31,32,3.5,24.464
+3,Japan - Suzuka,44,30,2.2,22.937
+3,Japan - Suzuka,55,33,2.6,23.337
+3,Japan - Suzuka,63,19,2.3,23.184
+3,Japan - Suzuka,81,20,2.1,23.037
+3,Japan - Suzuka,87,23,3.9,24.834
+4,Bahrain - Sakhir,1,10,4.7,26.518
+4,Bahrain - Sakhir,1,26,6.2,28.067
+4,Bahrain - Sakhir,4,10,7.7,29.822
+4,Bahrain - Sakhir,4,32,2.3,24.035
+4,Bahrain - Sakhir,5,13,2.2,24.143
+4,Bahrain - Sakhir,5,32,3.3,25.396
+4,Bahrain - Sakhir,6,6,3.5,25.265
+4,Bahrain - Sakhir,6,28,2.9,24.64
+4,Bahrain - Sakhir,7,9,2.8,24.791
+4,Bahrain - Sakhir,7,28,3.1,25.093
+4,Bahrain - Sakhir,10,10,2.8,25.033
+4,Bahrain - Sakhir,10,28,2.8,24.958
+4,Bahrain - Sakhir,12,12,2.5,24.807
+4,Bahrain - Sakhir,12,27,2.8,24.506
+4,Bahrain - Sakhir,12,32,2.9,24.693
+4,Bahrain - Sakhir,14,16,2.7,24.826
+4,Bahrain - Sakhir,14,32,2.6,24.846
+4,Bahrain - Sakhir,16,17,2.6,24.802
+4,Bahrain - Sakhir,16,32,2.4,24.241
+4,Bahrain - Sakhir,18,12,2.4,24.611
+4,Bahrain - Sakhir,18,32,2.8,24.592
+4,Bahrain - Sakhir,22,11,4.2,26.493
+4,Bahrain - Sakhir,22,32,2.4,24.771
+4,Bahrain - Sakhir,23,16,3.6,25.394
+4,Bahrain - Sakhir,23,32,2.6,25.99
+4,Bahrain - Sakhir,27,5,,24.2
+4,Bahrain - Sakhir,27,27,,24.2
+4,Bahrain - Sakhir,30,14,3.1,25.242
+4,Bahrain - Sakhir,30,32,2.3,24.191
+4,Bahrain - Sakhir,31,8,2.6,24.876
+4,Bahrain - Sakhir,31,27,2.7,24.832
+4,Bahrain - Sakhir,44,17,2.3,24.34
+4,Bahrain - Sakhir,44,32,2.1,24.35
+4,Bahrain - Sakhir,55,14,2.9,24.6
+4,Bahrain - Sakhir,55,32,2.6,24.315
+4,Bahrain - Sakhir,55,44,15.1,37.116
+4,Bahrain - Sakhir,63,13,2.2,24.044
+4,Bahrain - Sakhir,63,32,2.4,24.1
+4,Bahrain - Sakhir,81,14,2.3,24.498
+4,Bahrain - Sakhir,81,32,2.9,24.9
+4,Bahrain - Sakhir,87,14,2.9,24.562
+4,Bahrain - Sakhir,87,32,3.5,24.895
+5,Saudi Arabia - Jeddah,1,21,8.3,26.03
+5,Saudi Arabia - Jeddah,4,34,2.6,20.427
+5,Saudi Arabia - Jeddah,5,1,3.4,21.854
+5,Saudi Arabia - Jeddah,6,34,3.1,20.827
+5,Saudi Arabia - Jeddah,7,1,2.5,20.571
+5,Saudi Arabia - Jeddah,7,32,3.6,21.521
+5,Saudi Arabia - Jeddah,12,19,2.3,20.399
+5,Saudi Arabia - Jeddah,14,19,3.9,21.891
+5,Saudi Arabia - Jeddah,16,29,2.0,20.131
+5,Saudi Arabia - Jeddah,18,39,2.5,20.487
+5,Saudi Arabia - Jeddah,23,22,5.0,22.135
+5,Saudi Arabia - Jeddah,27,33,2.3,20.441
+5,Saudi Arabia - Jeddah,30,20,2.5,20.534
+5,Saudi Arabia - Jeddah,31,1,3.1,21.512
+5,Saudi Arabia - Jeddah,44,23,2.1,20.144
+5,Saudi Arabia - Jeddah,55,21,6.4,24.148
+5,Saudi Arabia - Jeddah,63,20,2.4,20.329
+5,Saudi Arabia - Jeddah,81,19,3.4,21.388
+5,Saudi Arabia - Jeddah,87,18,4.2,22.095
+6,United States - Miami,1,26,2.7,22.501
+6,United States - Miami,4,29,2.3,22.044
+6,United States - Miami,5,19,2.2,22.188
+6,United States - Miami,6,22,2.3,22.115
+6,United States - Miami,10,32,2.3,22.06
+6,United States - Miami,12,25,4.4,24.383
+6,United States - Miami,14,28,3.6,23.602
+6,United States - Miami,16,29,2.3,22.183
+6,United States - Miami,18,20,2.5,22.317
+6,United States - Miami,22,27,2.3,22.56
+6,United States - Miami,23,26,2.5,21.906
+6,United States - Miami,27,36,2.5,22.108
+6,United States - Miami,30,28,2.5,22.439
+6,United States - Miami,31,23,3.0,23.162
+6,United States - Miami,44,28,3.4,23.104
+6,United States - Miami,55,25,2.9,22.415
+6,United States - Miami,63,29,4.5,24.257
+6,United States - Miami,81,29,2.2,22.106
+7,Italy - Imola,1,29,2.3,29.991
+7,Italy - Imola,1,46,2.1,29.657
+7,Italy - Imola,4,28,2.1,29.513
+7,Italy - Imola,4,46,4.4,31.675
+7,Italy - Imola,5,12,3.4,30.906
+7,Italy - Imola,5,29,3.1,30.605
+7,Italy - Imola,5,46,2.3,29.917
+7,Italy - Imola,6,29,2.5,30.123
+7,Italy - Imola,6,46,2.6,30.096
+7,Italy - Imola,10,9,3.7,31.488
+7,Italy - Imola,10,29,3.2,32.003
+7,Italy - Imola,12,29,2.5,30.051
+7,Italy - Imola,14,12,2.6,30.163
+7,Italy - Imola,14,46,3.1,30.886
+7,Italy - Imola,16,10,2.0,29.634
+7,Italy - Imola,16,29,2.8,31.898
+7,Italy - Imola,18,14,3.6,31.218
+7,Italy - Imola,18,46,4.1,34.496
+7,Italy - Imola,22,29,2.2,29.807
+7,Italy - Imola,23,29,2.9,30.471
+7,Italy - Imola,23,47,2.5,29.786
+7,Italy - Imola,27,29,2.6,30.184
+7,Italy - Imola,30,10,2.2,29.695
+7,Italy - Imola,30,29,2.3,30.291
+7,Italy - Imola,31,1,2.6,30.506
+7,Italy - Imola,43,22,2.8,30.317
+7,Italy - Imola,43,46,3.2,31.107
+7,Italy - Imola,44,29,2.3,29.949
+7,Italy - Imola,44,46,2.1,29.95
+7,Italy - Imola,55,11,3.4,30.08
+7,Italy - Imola,55,29,3.0,30.635
+7,Italy - Imola,63,11,2.4,29.784
+7,Italy - Imola,63,29,2.7,30.754
+7,Italy - Imola,81,13,3.6,30.973
+7,Italy - Imola,81,30,3.3,30.609
+7,Italy - Imola,87,29,2.9,31.414
+7,Italy - Imola,87,31,29.0,56.757
+8,Monaco - Monte Carlo,1,28,2.3,24.114
+8,Monaco - Monte Carlo,1,77,2.2,23.95
+8,Monaco - Monte Carlo,4,19,2.7,24.545
+8,Monaco - Monte Carlo,4,50,2.2,23.704
+8,Monaco - Monte Carlo,5,1,14.6,37.243
+8,Monaco - Monte Carlo,5,26,2.7,24.483
+8,Monaco - Monte Carlo,5,35,2.4,24.246
+8,Monaco - Monte Carlo,6,14,2.7,24.311
+8,Monaco - Monte Carlo,6,19,2.5,24.031
+8,Monaco - Monte Carlo,10,1,2.4,24.376
+8,Monaco - Monte Carlo,12,69,2.4,24.457
+8,Monaco - Monte Carlo,12,71,2.3,24.837
+8,Monaco - Monte Carlo,14,16,2.6,25.375
+8,Monaco - Monte Carlo,16,22,2.0,23.576
+8,Monaco - Monte Carlo,16,49,2.2,23.678
+8,Monaco - Monte Carlo,18,17,2.5,23.978
+8,Monaco - Monte Carlo,18,64,4.2,25.916
+8,Monaco - Monte Carlo,22,1,2.6,24.525
+8,Monaco - Monte Carlo,22,73,2.4,24.086
+8,Monaco - Monte Carlo,23,32,2.4,23.927
+8,Monaco - Monte Carlo,23,40,2.3,24.19
+8,Monaco - Monte Carlo,27,12,2.4,24.065
+8,Monaco - Monte Carlo,27,44,3.0,24.397
+8,Monaco - Monte Carlo,30,31,2.6,24.206
+8,Monaco - Monte Carlo,30,40,2.5,24.32
+8,Monaco - Monte Carlo,31,16,3.1,25.575
+8,Monaco - Monte Carlo,31,28,2.8,24.773
+8,Monaco - Monte Carlo,43,13,2.5,24.355
+8,Monaco - Monte Carlo,43,26,2.7,24.497
+8,Monaco - Monte Carlo,44,18,2.1,23.565
+8,Monaco - Monte Carlo,44,56,2.5,24.256
+8,Monaco - Monte Carlo,55,48,3.1,24.498
+8,Monaco - Monte Carlo,55,53,2.7,24.049
+8,Monaco - Monte Carlo,63,53,,19.4
+8,Monaco - Monte Carlo,63,62,3.7,25.063
+8,Monaco - Monte Carlo,63,68,2.5,24.025
+8,Monaco - Monte Carlo,81,20,3.8,25.756
+8,Monaco - Monte Carlo,81,48,2.3,23.908
+8,Monaco - Monte Carlo,87,1,28.5,50.191
+8,Monaco - Monte Carlo,87,17,3.2,24.58
+9,Spain - Catalunya,1,13,2.5,21.869
+9,Spain - Catalunya,1,29,2.3,21.933
+9,Spain - Catalunya,1,47,2.4,21.802
+9,Spain - Catalunya,1,55,2.4,22.197
+9,Spain - Catalunya,4,21,3.0,22.454
+9,Spain - Catalunya,4,48,2.3,21.863
+9,Spain - Catalunya,4,55,3.9,23.562
+9,Spain - Catalunya,5,19,2.1,22.041
+9,Spain - Catalunya,5,49,3.4,22.953
+9,Spain - Catalunya,6,19,2.5,21.769
+9,Spain - Catalunya,6,48,2.4,22.019
+9,Spain - Catalunya,6,55,2.5,21.841
+9,Spain - Catalunya,10,10,2.4,22.224
+9,Spain - Catalunya,10,31,2.1,22.006
+9,Spain - Catalunya,10,55,3.0,22.818
+9,Spain - Catalunya,12,21,2.5,22.234
+9,Spain - Catalunya,12,49,3.8,23.457
+9,Spain - Catalunya,14,15,3.1,22.782
+9,Spain - Catalunya,14,42,2.8,22.242
+9,Spain - Catalunya,14,54,2.6,22.216
+9,Spain - Catalunya,16,17,2.1,21.863
+9,Spain - Catalunya,16,40,2.3,21.893
+9,Spain - Catalunya,16,55,2.8,22.383
+9,Spain - Catalunya,22,8,2.3,21.868
+9,Spain - Catalunya,22,24,2.4,22.056
+9,Spain - Catalunya,22,44,2.4,21.822
+9,Spain - Catalunya,22,54,2.5,22.283
+9,Spain - Catalunya,23,6,11.4,30.823
+9,Spain - Catalunya,23,26,16.9,37.674
+9,Spain - Catalunya,27,9,2.7,22.233
+9,Spain - Catalunya,27,45,2.5,21.849
+9,Spain - Catalunya,27,56,2.7,21.904
+9,Spain - Catalunya,30,18,2.5,22.039
+9,Spain - Catalunya,30,44,2.3,22.127
+9,Spain - Catalunya,31,20,2.8,22.554
+9,Spain - Catalunya,31,43,2.7,22.468
+9,Spain - Catalunya,43,14,2.8,22.491
+9,Spain - Catalunya,43,39,2.4,22.119
+9,Spain - Catalunya,43,54,2.1,21.874
+9,Spain - Catalunya,44,16,2.2,21.957
+9,Spain - Catalunya,44,46,4.9,24.416
+9,Spain - Catalunya,44,55,2.7,22.83
+9,Spain - Catalunya,55,9,10.8,30.547
+9,Spain - Catalunya,55,34,3.0,22.346
+9,Spain - Catalunya,55,55,2.8,21.984
+9,Spain - Catalunya,63,20,2.2,21.739
+9,Spain - Catalunya,63,41,2.3,21.752
+9,Spain - Catalunya,63,55,3.5,23.167
+9,Spain - Catalunya,81,22,2.2,21.858
+9,Spain - Catalunya,81,49,2.2,21.838
+9,Spain - Catalunya,81,55,3.3,22.748
+9,Spain - Catalunya,87,8,2.6,22.009
+9,Spain - Catalunya,87,35,2.9,22.27
+9,Spain - Catalunya,87,54,3.4,22.765
+10,Canada - Montreal,1,12,2.6,23.604
+10,Canada - Montreal,1,37,2.2,23.121
+10,Canada - Montreal,1,67,,18.2
+10,Canada - Montreal,1,68,,19.2
+10,Canada - Montreal,1,69,,18.3
+10,Canada - Montreal,4,29,2.2,23.223
+10,Canada - Montreal,4,47,2.4,23.471
+10,Canada - Montreal,5,49,2.4,23.715
+10,Canada - Montreal,5,66,,18.2
+10,Canada - Montreal,5,67,,18.2
+10,Canada - Montreal,5,68,,18.2
+10,Canada - Montreal,6,13,3.1,24.13
+10,Canada - Montreal,6,66,2.8,23.693
+10,Canada - Montreal,6,67,,18.2
+10,Canada - Montreal,6,68,,18.2
+10,Canada - Montreal,10,53,2.9,23.987
+10,Canada - Montreal,10,66,,18.2
+10,Canada - Montreal,10,67,,18.2
+10,Canada - Montreal,10,68,,18.2
+10,Canada - Montreal,12,14,2.4,23.32
+10,Canada - Montreal,12,38,2.2,23.416
+10,Canada - Montreal,12,67,,18.2
+10,Canada - Montreal,12,68,,18.9
+10,Canada - Montreal,12,69,,18.2
+10,Canada - Montreal,14,15,3.2,24.021
+10,Canada - Montreal,14,50,2.6,23.409
+10,Canada - Montreal,14,66,,18.2
+10,Canada - Montreal,14,67,,18.1
+10,Canada - Montreal,14,68,,18.2
+10,Canada - Montreal,14,69,,18.2
+10,Canada - Montreal,16,28,2.2,23.36
+10,Canada - Montreal,16,53,2.1,23.859
+10,Canada - Montreal,16,67,,18.3
+10,Canada - Montreal,16,68,,18.2
+10,Canada - Montreal,16,69,,18.2
+10,Canada - Montreal,18,24,2.6,23.742
+10,Canada - Montreal,18,51,13.3,34.742
+10,Canada - Montreal,18,66,2.6,23.772
+10,Canada - Montreal,18,67,,18.2
+10,Canada - Montreal,18,68,,18.2
+10,Canada - Montreal,22,56,3.7,25.178
+10,Canada - Montreal,22,66,,18.2
+10,Canada - Montreal,22,67,,18.2
+10,Canada - Montreal,22,68,,18.2
+10,Canada - Montreal,23,23,3.0,23.898
+10,Canada - Montreal,27,19,2.4,23.476
+10,Canada - Montreal,27,66,,18.2
+10,Canada - Montreal,27,67,,18.2
+10,Canada - Montreal,27,68,,18.3
+10,Canada - Montreal,27,69,,18.3
+10,Canada - Montreal,30,38,2.1,23.28
+10,Canada - Montreal,31,57,3.0,24.452
+10,Canada - Montreal,31,66,,18.2
+10,Canada - Montreal,31,67,,18.2
+10,Canada - Montreal,31,68,,18.2
+10,Canada - Montreal,43,14,3.4,24.735
+10,Canada - Montreal,43,66,,18.1
+10,Canada - Montreal,43,67,,18.1
+10,Canada - Montreal,43,68,,18.1
+10,Canada - Montreal,44,15,2.3,23.604
+10,Canada - Montreal,44,45,2.0,23.338
+10,Canada - Montreal,44,67,,18.2
+10,Canada - Montreal,44,68,,18.2
+10,Canada - Montreal,44,69,,18.2
+10,Canada - Montreal,55,57,2.6,23.269
+10,Canada - Montreal,55,66,,18.2
+10,Canada - Montreal,55,67,,18.1
+10,Canada - Montreal,55,68,,18.1
+10,Canada - Montreal,63,13,2.5,23.231
+10,Canada - Montreal,63,42,3.3,24.262
+10,Canada - Montreal,63,67,,18.2
+10,Canada - Montreal,63,68,,19.4
+10,Canada - Montreal,63,69,,18.2
+10,Canada - Montreal,81,16,2.1,23.245
+10,Canada - Montreal,81,45,2.2,23.174
+10,Canada - Montreal,81,67,4.0,26.385
+10,Canada - Montreal,81,68,,18.2
+10,Canada - Montreal,81,69,,18.2
+10,Canada - Montreal,87,18,2.8,23.562
+10,Canada - Montreal,87,66,7.2,27.985
+10,Canada - Montreal,87,67,,18.2
+10,Canada - Montreal,87,68,,18.2
+11,Austria - Spielberg,4,20,3.1,22.131
+11,Austria - Spielberg,4,52,2.5,21.427
+11,Austria - Spielberg,5,21,2.4,21.676
+11,Austria - Spielberg,5,49,2.2,21.286
+11,Austria - Spielberg,6,2,2.2,21.297
+11,Austria - Spielberg,6,28,2.7,21.68
+11,Austria - Spielberg,10,12,3.0,21.959
+11,Austria - Spielberg,10,38,2.7,22.105
+11,Austria - Spielberg,14,33,2.8,21.865
+11,Austria - Spielberg,16,25,2.3,21.308
+11,Austria - Spielberg,16,49,2.4,21.536
+11,Austria - Spielberg,18,26,3.6,22.907
+11,Austria - Spielberg,18,53,2.5,21.763
+11,Austria - Spielberg,22,18,2.4,21.492
+11,Austria - Spielberg,22,30,10.6,30.0
+11,Austria - Spielberg,22,60,13.6,32.643
+11,Austria - Spielberg,23,13,2.5,21.21
+11,Austria - Spielberg,27,12,2.3,21.236
+11,Austria - Spielberg,27,42,2.3,21.045
+11,Austria - Spielberg,30,32,2.2,21.434
+11,Austria - Spielberg,31,19,3.9,23.188
+11,Austria - Spielberg,31,50,3.0,22.284
+11,Austria - Spielberg,43,13,3.9,23.038
+11,Austria - Spielberg,43,39,2.2,21.087
+11,Austria - Spielberg,44,26,2.2,21.287
+11,Austria - Spielberg,44,50,2.2,21.158
+11,Austria - Spielberg,63,18,2.4,21.344
+11,Austria - Spielberg,63,45,2.9,21.854
+11,Austria - Spielberg,81,24,3.4,22.599
+11,Austria - Spielberg,81,53,2.0,21.033
+11,Austria - Spielberg,87,11,3.1,21.91
+11,Austria - Spielberg,87,39,3.0,21.771
+12,United Kingdom - Silverstone,1,11,2.2,28.182
+12,United Kingdom - Silverstone,1,41,,29.6
+12,United Kingdom - Silverstone,4,11,5.1,30.63
+12,United Kingdom - Silverstone,4,44,2.4,28.214
+12,United Kingdom - Silverstone,6,10,2.5,28.523
+12,United Kingdom - Silverstone,10,11,2.4,28.912
+12,United Kingdom - Silverstone,10,41,,28.4
+12,United Kingdom - Silverstone,12,2,2.3,28.721
+12,United Kingdom - Silverstone,12,9,2.2,28.707
+12,United Kingdom - Silverstone,12,20,3.1,29.728
+12,United Kingdom - Silverstone,14,11,2.8,28.707
+12,United Kingdom - Silverstone,14,37,2.5,28.534
+12,United Kingdom - Silverstone,16,10,2.8,29.089
+12,United Kingdom - Silverstone,16,42,2.6,28.84
+12,United Kingdom - Silverstone,18,6,2.7,29.125
+12,United Kingdom - Silverstone,18,10,2.6,28.853
+12,United Kingdom - Silverstone,18,41,,28.5
+12,United Kingdom - Silverstone,22,11,2.1,28.544
+12,United Kingdom - Silverstone,22,41,,40.1
+12,United Kingdom - Silverstone,23,12,2.5,29.251
+12,United Kingdom - Silverstone,23,42,,29.2
+12,United Kingdom - Silverstone,27,9,3.7,29.736
+12,United Kingdom - Silverstone,27,42,4.6,29.952
+12,United Kingdom - Silverstone,31,18,2.7,29.562
+12,United Kingdom - Silverstone,31,42,2.5,28.646
+12,United Kingdom - Silverstone,44,11,2.3,28.917
+12,United Kingdom - Silverstone,44,41,3.1,29.127
+12,United Kingdom - Silverstone,55,11,3.2,29.554
+12,United Kingdom - Silverstone,55,41,,28.6
+12,United Kingdom - Silverstone,63,10,2.4,28.647
+12,United Kingdom - Silverstone,63,38,2.3,28.205
+12,United Kingdom - Silverstone,81,11,3.1,29.491
+12,United Kingdom - Silverstone,81,43,14.6,40.28
+12,United Kingdom - Silverstone,87,10,2.8,29.201
+12,United Kingdom - Silverstone,87,41,,29.0
+13,Belgium - Spa-Francorchamps,1,12,4.8,25.913
+13,Belgium - Spa-Francorchamps,4,13,3.5,24.376
+13,Belgium - Spa-Francorchamps,5,12,2.2,23.274
+13,Belgium - Spa-Francorchamps,6,13,2.8,23.58
+13,Belgium - Spa-Francorchamps,6,20,2.8,23.376
+13,Belgium - Spa-Francorchamps,10,11,3.9,26.825
+13,Belgium - Spa-Francorchamps,12,12,2.4,23.609
+13,Belgium - Spa-Francorchamps,12,30,2.3,23.059
+13,Belgium - Spa-Francorchamps,14,11,2.5,23.404
+13,Belgium - Spa-Francorchamps,14,29,3.3,23.692
+13,Belgium - Spa-Francorchamps,16,12,2.5,23.806
+13,Belgium - Spa-Francorchamps,18,12,2.7,23.787
+13,Belgium - Spa-Francorchamps,22,13,2.2,23.33
+13,Belgium - Spa-Francorchamps,23,12,2.7,24.029
+13,Belgium - Spa-Francorchamps,27,11,2.9,23.599
+13,Belgium - Spa-Francorchamps,27,32,3.4,23.89
+13,Belgium - Spa-Francorchamps,30,12,2.3,23.269
+13,Belgium - Spa-Francorchamps,31,13,2.6,23.802
+13,Belgium - Spa-Francorchamps,43,12,2.6,23.665
+13,Belgium - Spa-Francorchamps,43,28,2.9,23.449
+13,Belgium - Spa-Francorchamps,44,11,2.2,23.284
+13,Belgium - Spa-Francorchamps,55,12,6.2,27.528
+13,Belgium - Spa-Francorchamps,55,26,3.1,23.77
+13,Belgium - Spa-Francorchamps,63,12,2.8,23.635
+13,Belgium - Spa-Francorchamps,81,12,2.8,23.844
+13,Belgium - Spa-Francorchamps,87,12,3.2,24.13
+14,Hungary - Hungaroring,1,17,2.3,21.433
+14,Hungary - Hungaroring,1,48,2.2,21.258
+14,Hungary - Hungaroring,4,31,1.9,20.94
+14,Hungary - Hungaroring,5,40,2.6,21.773
+14,Hungary - Hungaroring,6,33,2.2,21.096
+14,Hungary - Hungaroring,10,32,2.6,21.699
+14,Hungary - Hungaroring,12,21,3.2,22.328
+14,Hungary - Hungaroring,14,39,2.9,22.204
+14,Hungary - Hungaroring,16,19,2.0,21.13
+14,Hungary - Hungaroring,16,40,2.0,21.136
+14,Hungary - Hungaroring,18,36,2.4,21.464
+14,Hungary - Hungaroring,22,20,2.1,21.295
+14,Hungary - Hungaroring,22,37,2.4,21.541
+14,Hungary - Hungaroring,23,14,2.6,21.345
+14,Hungary - Hungaroring,23,38,3.8,22.726
+14,Hungary - Hungaroring,27,5,,21.5
+14,Hungary - Hungaroring,27,41,,28.7
+14,Hungary - Hungaroring,30,40,3.0,22.136
+14,Hungary - Hungaroring,31,14,3.1,22.444
+14,Hungary - Hungaroring,43,13,11.1,30.248
+14,Hungary - Hungaroring,43,35,7.2,26.28
+14,Hungary - Hungaroring,44,42,2.3,21.15
+14,Hungary - Hungaroring,55,15,2.7,21.67
+14,Hungary - Hungaroring,55,51,2.6,21.423
+14,Hungary - Hungaroring,63,19,2.9,21.703
+14,Hungary - Hungaroring,63,43,2.9,21.45
+14,Hungary - Hungaroring,81,18,2.1,21.145
+14,Hungary - Hungaroring,81,45,1.9,20.94
+14,Hungary - Hungaroring,87,30,2.8,21.754
+15,Netherlands - Zandvoort,1,23,3.4,18.74
+15,Netherlands - Zandvoort,1,53,3.3,18.261
+15,Netherlands - Zandvoort,4,23,4.5,20.042
+15,Netherlands - Zandvoort,4,53,4.8,22.608
+15,Netherlands - Zandvoort,5,22,2.8,17.908
+15,Netherlands - Zandvoort,5,60,2.2,17.491
+15,Netherlands - Zandvoort,6,23,2.8,17.414
+15,Netherlands - Zandvoort,6,53,4.3,18.535
+15,Netherlands - Zandvoort,10,23,4.2,19.223
+15,Netherlands - Zandvoort,12,23,2.5,17.476
+15,Netherlands - Zandvoort,12,51,2.5,17.365
+15,Netherlands - Zandvoort,12,53,,21.3
+15,Netherlands - Zandvoort,14,18,2.5,17.417
+15,Netherlands - Zandvoort,14,40,3.3,17.949
+15,Netherlands - Zandvoort,16,22,2.0,17.081
+15,Netherlands - Zandvoort,16,52,2.1,17.042
+15,Netherlands - Zandvoort,18,8,2.4,17.561
+15,Netherlands - Zandvoort,18,52,2.6,17.598
+15,Netherlands - Zandvoort,22,19,3.2,18.348
+15,Netherlands - Zandvoort,22,53,2.9,18.147
+15,Netherlands - Zandvoort,23,23,4.1,19.692
+15,Netherlands - Zandvoort,23,53,3.2,17.84
+15,Netherlands - Zandvoort,27,19,2.6,17.602
+15,Netherlands - Zandvoort,27,53,3.5,17.944
+15,Netherlands - Zandvoort,30,23,2.2,17.549
+15,Netherlands - Zandvoort,30,27,6.7,22.209
+15,Netherlands - Zandvoort,30,52,2.7,18.552
+15,Netherlands - Zandvoort,31,52,2.8,18.27
+15,Netherlands - Zandvoort,43,19,2.8,17.986
+15,Netherlands - Zandvoort,43,53,2.7,17.586
+15,Netherlands - Zandvoort,43,65,3.1,18.077
+15,Netherlands - Zandvoort,55,23,2.7,17.67
+15,Netherlands - Zandvoort,55,27,13.2,29.443
+15,Netherlands - Zandvoort,55,51,15.3,30.34
+15,Netherlands - Zandvoort,55,65,3.9,18.043
+15,Netherlands - Zandvoort,63,23,3.4,18.832
+15,Netherlands - Zandvoort,63,53,2.4,17.344
+15,Netherlands - Zandvoort,81,23,2.6,17.375
+15,Netherlands - Zandvoort,81,53,3.8,18.589
+15,Netherlands - Zandvoort,87,53,3.6,18.622
+16,Italy - Monza,1,37,2.3,24.545
+16,Italy - Monza,4,46,5.9,27.498
+16,Italy - Monza,5,20,4.0,26.143
+16,Italy - Monza,6,32,2.2,24.326
+16,Italy - Monza,10,49,2.9,25.012
+16,Italy - Monza,12,28,2.9,24.916
+16,Italy - Monza,14,20,3.2,25.16
+16,Italy - Monza,16,33,2.0,24.235
+16,Italy - Monza,18,49,16.2,38.418
+16,Italy - Monza,22,19,2.3,24.372
+16,Italy - Monza,23,41,3.1,24.717
+16,Italy - Monza,30,9,2.2,24.156
+16,Italy - Monza,31,51,8.6,30.754
+16,Italy - Monza,43,33,2.8,24.971
+16,Italy - Monza,44,38,2.1,23.971
+16,Italy - Monza,55,30,3.0,24.605
+16,Italy - Monza,63,27,2.9,25.021
+16,Italy - Monza,81,45,1.9,23.602
+16,Italy - Monza,87,18,3.3,25.372
+17,Azerbaijan - Baku,1,40,2.4,20.221
+17,Azerbaijan - Baku,4,37,4.1,21.975
+17,Azerbaijan - Baku,5,26,2.4,20.845
+17,Azerbaijan - Baku,6,29,2.2,20.294
+17,Azerbaijan - Baku,10,35,3.3,21.5
+17,Azerbaijan - Baku,12,18,2.7,20.669
+17,Azerbaijan - Baku,14,21,8.2,25.768
+17,Azerbaijan - Baku,16,19,,20.5
+17,Azerbaijan - Baku,18,37,4.0,21.82
+17,Azerbaijan - Baku,22,38,2.2,20.323
+17,Azerbaijan - Baku,23,1,2.6,20.758
+17,Azerbaijan - Baku,23,15,2.4,20.489
+17,Azerbaijan - Baku,27,36,2.3,19.97
+17,Azerbaijan - Baku,30,20,2.3,20.283
+17,Azerbaijan - Baku,31,1,2.5,20.691
+17,Azerbaijan - Baku,31,2,2.5,20.759
+17,Azerbaijan - Baku,43,16,2.8,21.088
+17,Azerbaijan - Baku,44,36,2.2,20.062
+17,Azerbaijan - Baku,55,27,2.6,20.508
+17,Azerbaijan - Baku,63,39,2.3,19.809
+17,Azerbaijan - Baku,87,28,3.4,21.194
+18,Singapore - Singapore,1,19,3.0,24.008
+18,Singapore - Singapore,4,26,2.1,23.314
+18,Singapore - Singapore,5,13,11.2,32.856
+18,Singapore - Singapore,6,20,2.4,23.827
+18,Singapore - Singapore,10,24,4.1,25.583
+18,Singapore - Singapore,10,51,3.8,25.188
+18,Singapore - Singapore,12,25,2.4,23.806
+18,Singapore - Singapore,14,27,9.2,30.749
+18,Singapore - Singapore,16,21,2.3,23.63
+18,Singapore - Singapore,18,38,2.6,24.012
+18,Singapore - Singapore,22,13,2.1,24.61
+18,Singapore - Singapore,23,42,4.3,25.732
+18,Singapore - Singapore,27,25,,24.1
+18,Singapore - Singapore,27,44,,31.8
+18,Singapore - Singapore,30,48,2.5,24.027
+18,Singapore - Singapore,31,30,3.2,25.078
+18,Singapore - Singapore,43,14,2.7,24.04
+18,Singapore - Singapore,44,24,3.5,24.794
+18,Singapore - Singapore,44,46,2.3,23.344
+18,Singapore - Singapore,55,50,2.9,24.075
+18,Singapore - Singapore,63,25,2.5,23.966
+18,Singapore - Singapore,81,27,5.2,26.637
+18,Singapore - Singapore,87,23,2.8,23.979
+19,United States - Austin,1,33,2.6,23.987
+19,United States - Austin,4,32,3.8,24.58
+19,United States - Austin,5,14,4.2,25.567
+19,United States - Austin,5,36,2.6,24.007
+19,United States - Austin,6,28,2.4,23.831
+19,United States - Austin,10,27,5.3,26.631
+19,United States - Austin,12,31,2.6,23.949
+19,United States - Austin,14,30,2.6,24.054
+19,United States - Austin,16,22,2.3,23.718
+19,United States - Austin,18,28,2.8,24.192
+19,United States - Austin,22,29,3.4,24.539
+19,United States - Austin,23,7,2.4,23.763
+19,United States - Austin,23,36,3.3,24.582
+19,United States - Austin,27,33,2.4,23.753
+19,United States - Austin,30,30,2.2,23.681
+19,United States - Austin,31,24,3.1,25.06
+19,United States - Austin,43,32,2.5,24.045
+19,United States - Austin,44,31,2.6,23.937
+19,United States - Austin,63,33,2.3,23.555
+19,United States - Austin,81,30,2.3,23.452
+19,United States - Austin,87,30,2.7,24.11
+20,Mexico - Mexico City,1,37,2.9,22.762
+20,Mexico - Mexico City,4,34,2.6,22.567
+20,Mexico - Mexico City,5,37,2.3,22.41
+20,Mexico - Mexico City,6,34,2.4,22.196
+20,Mexico - Mexico City,10,33,2.8,22.834
+20,Mexico - Mexico City,12,22,2.5,22.476
+20,Mexico - Mexico City,12,47,4.6,24.523
+20,Mexico - Mexico City,14,20,7.1,26.816
+20,Mexico - Mexico City,16,31,2.2,22.215
+20,Mexico - Mexico City,18,26,2.6,22.071
+20,Mexico - Mexico City,18,43,4.2,23.713
+20,Mexico - Mexico City,22,36,12.0,31.63
+20,Mexico - Mexico City,23,41,2.3,22.04
+20,Mexico - Mexico City,30,2,13.9,34.212
+20,Mexico - Mexico City,31,27,3.0,23.203
+20,Mexico - Mexico City,43,48,2.8,22.789
+20,Mexico - Mexico City,44,23,13.5,33.308
+20,Mexico - Mexico City,44,47,3.5,23.342
+20,Mexico - Mexico City,55,17,5.1,22.502
+20,Mexico - Mexico City,55,46,,30.5
+20,Mexico - Mexico City,55,56,,17.9
+20,Mexico - Mexico City,63,25,2.7,22.347
+20,Mexico - Mexico City,63,48,3.2,22.47
+20,Mexico - Mexico City,81,24,3.6,23.211
+20,Mexico - Mexico City,81,47,2.1,22.159
+20,Mexico - Mexico City,87,24,2.7,22.647
+20,Mexico - Mexico City,87,48,2.3,22.174
+21,Brazil - Interlagos,1,7,2.2,23.197
+21,Brazil - Interlagos,1,34,2.3,23.058
+21,Brazil - Interlagos,1,54,2.5,23.311
+21,Brazil - Interlagos,4,30,2.2,23.49
+21,Brazil - Interlagos,4,50,2.2,23.238
+21,Brazil - Interlagos,6,18,2.4,23.708
+21,Brazil - Interlagos,6,37,2.4,23.46
+21,Brazil - Interlagos,10,18,2.8,23.673
+21,Brazil - Interlagos,10,39,2.8,23.648
+21,Brazil - Interlagos,12,21,2.2,23.356
+21,Brazil - Interlagos,12,47,2.2,23.401
+21,Brazil - Interlagos,14,28,3.2,23.942
+21,Brazil - Interlagos,14,46,2.7,23.563
+21,Brazil - Interlagos,18,29,2.9,23.76
+21,Brazil - Interlagos,18,54,2.4,22.968
+21,Brazil - Interlagos,22,2,2.0,22.974
+21,Brazil - Interlagos,22,24,13.3,34.185
+21,Brazil - Interlagos,22,47,13.0,33.841
+21,Brazil - Interlagos,23,35,2.4,23.061
+21,Brazil - Interlagos,23,55,2.3,23.112
+21,Brazil - Interlagos,27,36,,23.0
+21,Brazil - Interlagos,30,19,2.0,22.899
+21,Brazil - Interlagos,31,8,2.9,24.204
+21,Brazil - Interlagos,31,47,2.9,24.177
+21,Brazil - Interlagos,43,29,2.6,23.71
+21,Brazil - Interlagos,43,43,5.4,26.124
+21,Brazil - Interlagos,44,2,18.5,40.076
+21,Brazil - Interlagos,44,14,2.4,23.426
+21,Brazil - Interlagos,44,32,9.8,30.752
+21,Brazil - Interlagos,55,17,5.2,26.064
+21,Brazil - Interlagos,55,38,2.5,23.234
+21,Brazil - Interlagos,63,34,2.4,23.358
+21,Brazil - Interlagos,63,48,2.3,23.128
+21,Brazil - Interlagos,81,38,13.5,34.644
+21,Brazil - Interlagos,81,51,2.2,23.113
+21,Brazil - Interlagos,87,17,3.0,23.748
+21,Brazil - Interlagos,87,42,3.9,24.654
+22,United States - Las Vegas,1,25,3.0,21.708
+22,United States - Las Vegas,4,22,2.5,21.049
+22,United States - Las Vegas,5,1,14.2,33.23
+22,United States - Las Vegas,6,20,2.9,21.324
+22,United States - Las Vegas,10,2,5.2,23.903
+22,United States - Las Vegas,12,2,3.1,21.968
+22,United States - Las Vegas,14,16,2.5,21.068
+22,United States - Las Vegas,16,24,2.7,21.351
+22,United States - Las Vegas,22,1,2.5,21.383
+22,United States - Las Vegas,22,27,2.2,20.68
+22,United States - Las Vegas,23,13,3.9,23.361
+22,United States - Las Vegas,23,14,11.3,30.065
+22,United States - Las Vegas,23,34,9.9,29.308
+22,United States - Las Vegas,27,30,,22.3
+22,United States - Las Vegas,30,2,13.1,32.736
+22,United States - Las Vegas,30,28,2.4,21.287
+22,United States - Las Vegas,31,27,3.2,22.389
+22,United States - Las Vegas,43,25,4.0,22.842
+22,United States - Las Vegas,44,29,3.1,21.638
+22,United States - Las Vegas,55,22,2.6,21.164
+22,United States - Las Vegas,63,17,2.2,20.929
+22,United States - Las Vegas,81,21,2.7,21.371
+22,United States - Las Vegas,87,17,3.1,21.491
+23,Qatar - Lusail,1,7,4.1,29.97
+23,Qatar - Lusail,1,32,2.5,28.168
+23,Qatar - Lusail,4,25,2.2,27.938
+23,Qatar - Lusail,4,44,2.7,28.243
+23,Qatar - Lusail,5,7,2.5,28.471
+23,Qatar - Lusail,5,32,2.2,28.234
+23,Qatar - Lusail,6,7,3.2,28.815
+23,Qatar - Lusail,6,32,2.2,27.931
+23,Qatar - Lusail,10,7,3.8,31.343
+23,Qatar - Lusail,10,32,3.7,30.559
+23,Qatar - Lusail,12,7,6.3,32.002
+23,Qatar - Lusail,12,32,2.6,28.544
+23,Qatar - Lusail,14,7,2.5,28.288
+23,Qatar - Lusail,14,32,3.0,28.935
+23,Qatar - Lusail,16,7,4.7,30.395
+23,Qatar - Lusail,16,32,3.2,28.999
+23,Qatar - Lusail,18,7,2.7,28.124
+23,Qatar - Lusail,18,24,2.5,28.064
+23,Qatar - Lusail,18,49,10.1,35.671
+23,Qatar - Lusail,22,7,3.6,29.188
+23,Qatar - Lusail,22,32,2.9,28.33
+23,Qatar - Lusail,23,7,3.1,28.89
+23,Qatar - Lusail,23,32,3.7,29.457
+23,Qatar - Lusail,30,7,3.2,28.993
+23,Qatar - Lusail,30,32,2.3,28.078
+23,Qatar - Lusail,31,8,8.3,34.006
+23,Qatar - Lusail,31,9,8.6,34.54
+23,Qatar - Lusail,31,34,4.6,30.469
+23,Qatar - Lusail,43,7,3.1,29.538
+23,Qatar - Lusail,43,32,3.2,28.942
+23,Qatar - Lusail,44,7,3.2,32.166
+23,Qatar - Lusail,44,32,2.7,28.541
+23,Qatar - Lusail,55,7,2.9,28.56
+23,Qatar - Lusail,55,32,2.6,28.181
+23,Qatar - Lusail,63,7,7.2,33.241
+23,Qatar - Lusail,63,32,3.0,29.077
+23,Qatar - Lusail,81,24,3.1,29.047
+23,Qatar - Lusail,81,42,1.8,27.853
+23,Qatar - Lusail,87,7,3.8,28.837
+23,Qatar - Lusail,87,32,16.3,45.232
+23,Qatar - Lusail,87,40,11.8,37.513
+24,United Arab Emirates - Yas Marina Circuit,1,23,2.3,21.703
+24,United Arab Emirates - Yas Marina Circuit,4,16,2.1,21.323
+24,United Arab Emirates - Yas Marina Circuit,4,40,2.4,21.407
+24,United Arab Emirates - Yas Marina Circuit,5,15,2.5,22.121
+24,United Arab Emirates - Yas Marina Circuit,6,14,2.6,21.932
+24,United Arab Emirates - Yas Marina Circuit,10,13,3.0,22.585
+24,United Arab Emirates - Yas Marina Circuit,10,40,3.0,22.234
+24,United Arab Emirates - Yas Marina Circuit,12,32,2.6,22.155
+24,United Arab Emirates - Yas Marina Circuit,14,16,4.1,23.267
+24,United Arab Emirates - Yas Marina Circuit,16,16,2.5,21.692
+24,United Arab Emirates - Yas Marina Circuit,16,39,2.0,20.902
+24,United Arab Emirates - Yas Marina Circuit,18,42,2.3,21.535
+24,United Arab Emirates - Yas Marina Circuit,22,32,7.9,27.041
+24,United Arab Emirates - Yas Marina Circuit,23,8,2.1,21.551
+24,United Arab Emirates - Yas Marina Circuit,23,33,2.4,21.495
+24,United Arab Emirates - Yas Marina Circuit,27,7,,21.6
+24,United Arab Emirates - Yas Marina Circuit,27,42,2.4,21.468
+24,United Arab Emirates - Yas Marina Circuit,30,21,8.9,28.369
+24,United Arab Emirates - Yas Marina Circuit,31,19,2.7,22.254
+24,United Arab Emirates - Yas Marina Circuit,43,15,2.7,21.953
+24,United Arab Emirates - Yas Marina Circuit,43,40,3.6,22.955
+24,United Arab Emirates - Yas Marina Circuit,44,8,2.4,21.601
+24,United Arab Emirates - Yas Marina Circuit,44,31,2.1,21.417
+24,United Arab Emirates - Yas Marina Circuit,55,18,2.7,21.799
+24,United Arab Emirates - Yas Marina Circuit,63,14,2.3,21.979
+24,United Arab Emirates - Yas Marina Circuit,81,41,2.2,21.565
+24,United Arab Emirates - Yas Marina Circuit,87,14,3.0,22.263
